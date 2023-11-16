@@ -1,4 +1,6 @@
-# Calculadora de Índice de Massa Corporal (IMC)
+# Desafio aula 5
+
+## Calculadora de Índice de Massa Corporal (IMC)
 
 Descrição:
 A tarefa é criar uma calculadora de IMC usando variáveis. O IMC é uma medida que relaciona o peso e a altura de uma pessoa para avaliar se ela está abaixo do peso, no peso normal, com sobrepeso ou obesa. A fórmula do IMC é: `IMC = peso / (altura * altura).`
